@@ -22,8 +22,8 @@ Descrição curta do projeto. Este projeto foi desenvolvido usando [Tecnologia 1
 
 ## Entre em Contato
 
-- LinkedIn: [Seu Perfil do LinkedIn](https://www.linkedin.com/in/seu-nome/)
-- Email: seu.email@example.com
+- LinkedIn: [Seu Perfil do LinkedIn]([https://www.linkedin.com/in/seu-nome/](https://www.linkedin.com/in/rafael-luiz-gon%C3%A7alves-dos-santos-856a15226/))
+- Email: rlg.santos123@gmail.com
 
 ## Sobre o Portfólio
 

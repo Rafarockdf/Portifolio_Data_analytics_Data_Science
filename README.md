@@ -26,7 +26,9 @@ Para conhecer mais sobre minhas habilidades, confira a [página de habilidades](
 
 ## Entre em Contato
 
+
 - LinkedIn: [Rafael Luiz](https://www.linkedin.com/in/rafael-luiz-gon%C3%A7alves-dos-santos-856a15226/)
+
 - Email: rlg.santos123@gmail.com
 
 ## Sobre o Portfólio

@@ -6,7 +6,7 @@ Olá! Sou Rafael Luiz, estudante de Sistemas de Informação na UFU e entusiasta
 
 ## Projetos
 
-### [Nome do Projeto 1](projetos/projeto1/README.md)
+### [Biblioteca Matemática/Estatística](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/tree/main/Projeto1)
 
 Descrição curta do projeto. Este projeto foi desenvolvido usando [Tecnologia 1] e [Tecnologia 2]. [Inclua uma captura de tela ou imagem relacionada.]
 

@@ -17,7 +17,7 @@ Olá! Sou Rafael Luiz, estudante de Sistemas de Informação na UFU e entusiasta
 
 ## Projetos
 
-### [Biblioteca Matemática/Estatística](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/tree/main/Projeto1)
+### [Analisando Dados de Venda](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/tree/main/Projeto1-An%C3%A1liseDeDados-Python)
 
 Descrição curta do projeto. Este projeto foi desenvolvido usando:
 
@@ -25,7 +25,7 @@ Descrição curta do projeto. Este projeto foi desenvolvido usando:
 
 
 
-### [Nome do Projeto 2](projetos/projeto2/README.md)
+### [Desafio de Transformação de Dados](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/tree/main/Desafio)
 
 Descrição curta do projeto. Este projeto foi desenvolvido usando [Tecnologia 1] e [Tecnologia 2]. [Inclua uma captura de tela ou imagem relacionada.]
 

@@ -27,7 +27,8 @@ Descrição curta do projeto. Este projeto foi desenvolvido usando:
 
 ### [Desafio de Transformação de Dados](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/tree/main/Desafio)
 
-Descrição curta do projeto. Este projeto foi desenvolvido usando 
+Descrição curta do projeto. Este projeto foi desenvolvido usando
+
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 
 ## Habilidades

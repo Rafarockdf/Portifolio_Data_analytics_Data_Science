@@ -1,0 +1,4 @@
+geopandas==1.0.1
+geopy==2.4.1
+plotly==5.22.0
+pandas==2.2.2

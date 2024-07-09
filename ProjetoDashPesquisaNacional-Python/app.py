@@ -8,7 +8,7 @@ from plotly.colors import sequential
 
 
 dados = pd.read_csv(r'https://raw.githubusercontent.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/main/ProjetoDashPesquisaNacional-Python/dados.csv')
-lat_lon = pd.read_csv('lat_lon.csv')
+lat_lon = pd.read_csv('https://raw.githubusercontent.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/main/ProjetoDashPesquisaNacional-Python/lat_lon.csv')
 
 st.set_page_config(layout= 'wide')
 

@@ -2,7 +2,7 @@
 # Rafael Luiz - Portfólio
 
 ## Sobre Mim
-Olá! Sou Rafael Luiz, estudante de Sistemas de Informação na UFU e entusiasta de Data Science. Atualmente, estou buscando oportunidades para aplicar meu conhecimento em projetos emocionantes e desafiadores.
+Olá! Sou Rafael Luiz, estudante de Sistemas de Informação na UFU e sou formado de Data Science pela FIAP. Atualmente, atuo como estagiário na área de Análise de Dados, aplicando e desenvolvendo habilidades analíticas e técnicas em projetos práticos que geram valor para o negócio. Sou focado em aprimorar constantemente minhas competências em ferramentas de visualização, modelagem de dados, e processos de ETL, além de explorar tecnologias emergentes.
 
 ![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafarockdf&show_icons=true&theme=dracula)
 
@@ -11,6 +11,9 @@ Olá! Sou Rafael Luiz, estudante de Sistemas de Informação na UFU e entusiasta
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 [![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 
 
@@ -38,7 +41,7 @@ Descrição curta do projeto. Este projeto foi desenvolvido usando
 Descrição curta do projeto. Este projeto foi desenvolvido usando
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
-
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 ## Habilidades
 
 Para conhecer mais sobre minhas habilidades, confira a [página de habilidades](habilidades.md).

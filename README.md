@@ -22,6 +22,12 @@ Olá! Sou Rafael Luiz, estudante de Sistemas de Informação na UFU e sou formad
 
 ## Projetos
 
+### [Análise Descritiva Pesquisa Nacional](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/tree/main/ProjetoDashPesquisaNacional-Python)
+#### [Dashboard](https://portifoliodataanalyticsdatascience-n55syboawgdnncpbyvqggk.streamlit.app/)
+
+Um dashboard que apresenta os resultados de uma pesquisa nacional. Identificquei que os dados visualizados abrangem aspectos geográficos, tendências ao longo do tempo e distribuições de categorias.
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 ### [Analisando Dados de Venda](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/tree/main/Projeto1-An%C3%A1liseDeDados-Python)
 
 Descrição curta do projeto. Este projeto foi desenvolvido usando:
@@ -36,12 +42,6 @@ Descrição curta do projeto. Este projeto foi desenvolvido usando
 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white)](https://colab.research.google.com/)
 
-### [Análise Descritiva Pesquisa Nacional](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/tree/main/ProjetoDashPesquisaNacional-Python)
-#### [Dashboard](https://portifoliodataanalyticsdatascience-n55syboawgdnncpbyvqggk.streamlit.app/)
-
-Descrição curta do projeto. Este projeto foi desenvolvido usando
-
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 ## Habilidades
 
 Para conhecer mais sobre minhas habilidades, confira a [página de habilidades](habilidades.md).

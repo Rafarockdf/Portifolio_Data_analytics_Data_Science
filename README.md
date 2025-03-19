@@ -22,9 +22,15 @@ Olá! Sou Rafael Luiz, estudante de Sistemas de Informação na UFU e sou formad
 
 ## Projetos
 
-### [Readme do Projeto](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/blob/main/Melhores_Compras_ML_Predicao_Vendas/readme.md)
-#### [Relatório](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/blob/main/Melhores_Compras_ML_Predicao_Vendas/Relat%C3%B3rio_Finalk.pdf)]
+### [Inteligência Artificial na era do E-Commerce: Transformando dados em Insights](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/blob/main/Melhores_Compras_ML_Predicao_Vendas/readme.md)
+#### [Relatório](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/blob/main/Melhores_Compras_ML_Predicao_Vendas/Relat%C3%B3rio_Finalk.pdf)
 
+O projeto tem como objetivo desenvolver um modelo de aprendizado de máquina capaz de prever o volume de vendas semanais da empresa. Utilizando dados históricos de vendas e variáveis externas como temperatura, preço do combustível, feriados e taxas econômicas, o projeto busca identificar padrões e tendências que possam impactar o desempenho financeiro da empresa. A análise exploratória de dados (AED), junto com a aplicação de modelos preditivos como XGBoost, Random Forest, Regressão Linear e SVM, permite comparar a eficácia de diferentes abordagens, garantindo previsões mais precisas. O modelo resultante pode ser utilizado para otimizar estoques, planejar estratégias de marketing e melhorar a tomada de decisão.
+Foi Utilizado nesse projeto:
+
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)](https://jupyter.org/)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 
 ### [Análise Descritiva Pesquisa Nacional](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/tree/main/ProjetoDashPesquisaNacional-Python)
 #### [Dashboard](https://portifoliodataanalyticsdatascience-n55syboawgdnncpbyvqggk.streamlit.app/)

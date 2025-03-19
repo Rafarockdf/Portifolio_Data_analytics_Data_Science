@@ -83,7 +83,7 @@ Os dados preditos apresentam um padrão linear consistente, capturando com preci
 ## Visualizações do Dashboard
 
 ### Home
-![Home]((https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/blob/main/Melhores_Compras_ML_Predicao_Vendas/imagens/home.png))
+![Home](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/blob/main/Melhores_Compras_ML_Predicao_Vendas/imagens/home.png)
 
 ### Visão Geral - Previsão da base de testes com o resultado
 ![Visão Geral - Previsão da base de testes com o resultado](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/blob/main/Melhores_Compras_ML_Predicao_Vendas/imagens/visao_geral_predicao_desabilitado.png)

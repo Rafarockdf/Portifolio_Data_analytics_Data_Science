@@ -22,6 +22,10 @@ Olá! Sou Rafael Luiz, estudante de Sistemas de Informação na UFU e sou formad
 
 ## Projetos
 
+### [Readme do Projeto](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/blob/main/Melhores_Compras_ML_Predicao_Vendas/readme.md)
+#### [Relatório](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/blob/main/Melhores_Compras_ML_Predicao_Vendas/Relat%C3%B3rio_Finalk.pdf)]
+
+
 ### [Análise Descritiva Pesquisa Nacional](https://github.com/Rafarockdf/Portifolio_Data_analytics_Data_Science/tree/main/ProjetoDashPesquisaNacional-Python)
 #### [Dashboard](https://portifoliodataanalyticsdatascience-n55syboawgdnncpbyvqggk.streamlit.app/)
 
